@@ -16,8 +16,7 @@ I am a student athlete at Baldwin Wallace University
 
 ### 📌 Featured Projects
 
-| Python Website | GPA Calculator | Python |
-| Python | Flask |
+| Python Website | GPA Calculator | Python | Flask |
 | **GPA Calculator Website** | 
 
 
