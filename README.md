@@ -1,6 +1,6 @@
 # Hi there, I'm Holden Cerny 👋
 
-## download my link [here.](https://rawcdn.githack.com/HCERNY0413/HCERNY0413/ra/main/Holden%20Cerny%20Resume#.pdf) 
+## download my link [here.](https://rawcdn.githack.com/HCERNY0413/HCERNY0413/0bf2f8b43f2ee7e74acc4f2ec52117628c8a65ce/Holden_Cerny_Resume.pdf) 
 
 I am a student athlete at Baldwin Wallace University
 
