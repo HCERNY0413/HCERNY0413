@@ -22,10 +22,10 @@ I am a student athlete at Baldwin Wallace University
 | **GPA Calculator Website** | 
 
 
-[(http://holdencerny.pythonanywhere.com)]
+* **Python:** [here.](http://holdencerny.pythonanywhere.com)
 
 
 ### 📫 Connect With Me
 
-* **LinkedIn:** [(https://www.linkedin.com/in/holden-cerny-45a662325/)]
-* **Email:** [(hcerny25@bw.edu)]
+* **LinkedIn:** [here.](https://www.linkedin.com/in/holden-cerny-45a662325/)
+* **Email:** [here.](hcerny25@bw.edu)
