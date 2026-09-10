@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Holden Cerny 👋
 
-<!--
-**HCERNY0413/HCERNY0413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student athlete at Baldwin Wallace University
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a Bachelors in Finance at Baldwin Wallace University (Expected Graduation: [2027])
+* 🔭 **Current Focus:** Learning core financial knowledge and developing quantitative skils
+* 🌱 **Currently Building:** Professional Skills in the Finance field
+* 💡 **Interests:** Interested in financial markets, wealth management, and sustainable investing
+* ⚡ **Fun Fact:** I enjoy playing chess, golfing, and researching new investment strategies
+
+---
+
+### 📌 Featured Projects
+
+| Python Website | GPA Calculator | Python |
+| Python | Flask |
+| **GPA Calculator Website** | 
+
+
+[(http://holdencerny.pythonanywhere.com)]
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** [(https://www.linkedin.com/in/holden-cerny-45a662325/)]
+* **Email:** [(hcerny25@bw.edu)]
